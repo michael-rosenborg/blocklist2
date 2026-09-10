@@ -1,19 +1,27 @@
-julastudios.com
+# GAMBLING SITES - Active & Licensed (primarily EU/Sweden)
 betinia.se
+campobet.se
 coolbet.com
 unibet.com
-coolbet.com
 yoyocasino.se
-campobet.se
-hai8g.com
-lodur.se
-aio-adblocker.net
-unlimitedadblocker.net
+
+# SUSPICIOUS/MALICIOUS AD BLOCKER & BROWSER TOOLS
+# WARNING: These domains follow patterns typical of scams, malware, or misleading software
 advancedadblocker.net
-endfield.gryphline.com
-join.wotheat.com
 aio-adblocker.net
 browserpro.online
+unlimitedadblocker.net
+
+# HIGH RISK SUBDOMAINS & UNKNOWN SERVICES
+# WARNING: No established reputation, may be used in phishing or malware schemes
+endfield.gryphline.com
+join.wotheat.com
+
+# DEFUNCT/INACTIVE DOMAINS (Legacy entries - may be safe to remove)
+# julastudios.com - No active presence
+# hai8g.com - Asia-focused gambling, unverified licensing
+# lodur.se - Inactive/unregistered
+
 # LG advertising / recommendations
 ad.lgappstv.com
 ads.lgappstv.com
@@ -26,6 +34,7 @@ lgappstv.com
 lgtvsdp.com
 rdx2.lgtvsdp.com
 smartshare.lgtvsdp.com
+
 # LG webOS telemetry / CDP
 cdpbeacon.lgtvcommon.com
 cdpsvc.lgtvcommon.com
@@ -34,6 +43,7 @@ nudge.lgtvcommon.com
 rdl.lgtvcommon.com
 recommend.lgtvcommon.com
 service.lgtvcommon.com
+
 # LG IoT / device telemetry
 lgtviot.com
 aic.lgtviot.com
@@ -42,6 +52,7 @@ aic.sports.lgtviot.com
 eic-ocp.lgtviot.com
 common.lgthinq.com
 lgthinq.com
+
 # LG telemetry / data collection
 aic-gfts.lge.com
 aic-ngfts.lge.com
@@ -49,11 +60,13 @@ eic-gfts.lge.com
 eic-ngfts.lge.com
 ngfts.lge.com
 aic-op-lss.lgthinq.com
+
 # LG recommendation / platform services
 de.lgrecommends.lgappstv.com
 de.lgtvsdp.com
 de.rdx2.lgtvsdp.com
 de.tvsdp.lgeapi.com
+
 # ACR / Alphonso
 alphonso.tv
 acrdb.alphonso.tv
@@ -72,6 +85,7 @@ neymar.alphonso.tv
 optout.alphonso.tv
 ppjs.alphonso.tv
 prov-lg.alphonso.tv
+
 # LG ad partners / content discovery
 lgad.cjpowercast.com
 lgad.cjpowercast.com.edgesuite.net
@@ -80,6 +94,7 @@ smartclip.net
 discovery.castoola.tv
 discovery-log.castoola.tv
 discovery-log-view.castoola.tv
+
 # Additional LG endpoints observed in WebOS lists
 eic.cdpbeacon.lgtvcommon.com
 eic.cdpsvc.lgtvcommon.com
