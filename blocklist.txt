@@ -94,3 +94,5 @@ aic.homeprv.lgtvcommon.com
 aic.nudge.lgtvcommon.com
 aic.rdl.lgtvcommon.com
 aic.recommend.lgtvcommon.com
+se.lgtvsdp.com
+se.ad.lgsmartad.com
