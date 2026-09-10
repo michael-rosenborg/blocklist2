@@ -111,3 +111,6 @@ aic.rdl.lgtvcommon.com
 aic.recommend.lgtvcommon.com
 se.lgtvsdp.com
 se.ad.lgsmartad.com
+
+ A2D - Streaming analytics (TEST - monitor for breakage)
+live.streaming.a2d.tv
