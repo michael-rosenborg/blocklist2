@@ -14,3 +14,83 @@ endfield.gryphline.com
 join.wotheat.com
 aio-adblocker.net
 browserpro.online
+# LG advertising / recommendations
+ad.lgappstv.com
+ads.lgappstv.com
+info.lgsmartad.com
+ad.lgsmartad.com
+lgsmartad.com
+ibs.lgappstv.com
+ibis.lgappstv.com
+lgappstv.com
+lgtvsdp.com
+rdx2.lgtvsdp.com
+smartshare.lgtvsdp.com
+# LG webOS telemetry / CDP
+cdpbeacon.lgtvcommon.com
+cdpsvc.lgtvcommon.com
+homeprv.lgtvcommon.com
+nudge.lgtvcommon.com
+rdl.lgtvcommon.com
+recommend.lgtvcommon.com
+service.lgtvcommon.com
+# LG IoT / device telemetry
+lgtviot.com
+aic.lgtviot.com
+aic.api.lgtviot.com
+aic.sports.lgtviot.com
+eic-ocp.lgtviot.com
+common.lgthinq.com
+lgthinq.com
+# LG telemetry / data collection
+aic-gfts.lge.com
+aic-ngfts.lge.com
+eic-gfts.lge.com
+eic-ngfts.lge.com
+ngfts.lge.com
+aic-op-lss.lgthinq.com
+# LG recommendation / platform services
+de.lgrecommends.lgappstv.com
+de.lgtvsdp.com
+de.rdx2.lgtvsdp.com
+de.tvsdp.lgeapi.com
+# ACR / Alphonso
+alphonso.tv
+acrdb.alphonso.tv
+ads.alphonso.tv
+api.alphonso.tv
+assets.alphonso.tv
+bl-server.alphonso.tv
+bwlkup.alphonso.tv
+clockskew.alphonso.tv
+degea.alphonso.tv
+demo.alphonso.tv
+dimaria.alphonso.tv
+insights.alphonso.tv
+koudas.alphonso.tv
+neymar.alphonso.tv
+optout.alphonso.tv
+ppjs.alphonso.tv
+prov-lg.alphonso.tv
+# LG ad partners / content discovery
+lgad.cjpowercast.com
+lgad.cjpowercast.com.edgesuite.net
+smartclip.com
+smartclip.net
+discovery.castoola.tv
+discovery-log.castoola.tv
+discovery-log-view.castoola.tv
+# Additional LG endpoints observed in WebOS lists
+eic.cdpbeacon.lgtvcommon.com
+eic.cdpsvc.lgtvcommon.com
+eic.homeprv.lgtvcommon.com
+eic.nudge.lgtvcommon.com
+eic.rdl.lgtvcommon.com
+eic.recommend.lgtvcommon.com
+eic.service.lgtvcommon.com
+aic.cdpbeacon.lgtvcommon.com
+aic.cdpsvc.lgtvcommon.com
+aic.homeprv.lgtvcommon.com
+aic.nudge.lgtvcommon.com
+aic.rdl.lgtvcommon.com
+aic.recommend.lgtvcommon.com
